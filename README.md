@@ -15,7 +15,7 @@ Slide 6 Trips by time of day and gender. Reinforces slide 5 findings. Reasults a
 
 Slide 7 Trips by day and customer type. Male subscribers are consistently heavy users each day. Customer trips are more evenly distributed across days and genders.
 
-###Summary. The results show that the core users of the Citibike program are subscribers who appear to commute using Citibike for 20 minutes or less. Two other visualizations that might be helpful would be the profitability of subscribers vs customers. Another insight that would be helpful would be to see how many customers are tourists from out of town.
+Summary. The results show that the core users of the Citibike program are subscribers who appear to commute using Citibike for 20 minutes or less. Two other visualizations that might be helpful would be the profitability of subscribers vs customers. Another insight that would be helpful would be to see how many customers are tourists from out of town.
   Whether this type of program could be successful in Des Moines remains to be seen. Winters are more extreme and there is not the same degree of tourism. For the program to suceed there would need to be a core group of subscribers who have a need to rent a bike. For people in Des Moines it may be easier to just buy a bike.
 New York apartments are notoriously small and storing a bike difficult. That may not be a problem in Des Moines. If they were to start a program I would start small and see if there was enough demand to make it viable.
 
