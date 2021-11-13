@@ -1,6 +1,5 @@
 # NYC Bikesharing Usage
-## Overview of Analysis. Purpose of this project is to see if it would be feasible to replicate the NYC Citibike program in Des Moines, Iowa using Citibike data for 
-   August 2019.
+## Overview of Analysis. Purpose of this project is to determine of such a program could work in Des Moines, Iowa.
 #Slide 1 Customer type. Over 80% of rides were by subscribers. This gives Citibike a solid base of core users and a more predictable cash flow.
 #Slide 2 Rides sorted by gender. Males accounted for about 66% of all rides.
 #Slide 3 Tripduration. Most rides are 20 minutes or less based on all rides.
