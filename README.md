@@ -1,7 +1,7 @@
 # NYC Bikesharing Usage
 ## Overview of Analysis. Purpose of this project is to determine of such a program could work in Des Moines, Iowa.
-###Slide 1 Customer type. Over 80% of rides were by subscribers. This gives Citibike a solid base of core users and a more predictable cash flow.
-###Slide 2 Rides sorted by gender. Males accounted for about 66% of all rides.
+Slide 1 Customer type. Over 80% of rides were by subscribers. This gives Citibike a solid base of core users and a more predictable cash flow.
+Slide 2 Rides sorted by gender. Males accounted for about 66% of all rides.
 #Slide 3 Tripduration. Most rides are 20 minutes or less based on all rides.
 #Slide 4 Tripduration by gender. When broken down by gender most rides are still less than 20 minutes.
 #Slide 5 Trips by time of day. The heat map shows that rides seem to be clustered around rush hour. Based on this heat map it appears that there is a high percentage of users who use Citibike to commute for work and most of those trips are 20 minutes or less. Weekend usage seem to be more evenly distributed throughout the day.
